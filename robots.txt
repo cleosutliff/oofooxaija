@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ziuphiadie.ressup.org/sitemap.xml
